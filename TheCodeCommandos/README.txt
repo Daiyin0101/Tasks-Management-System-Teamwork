@@ -39,7 +39,7 @@ After starting the application, you can sign up for a new account or log in with
 
 Contact:
 TheCodeCommandos - yu.dai@northeasten.edu
-GitHub - https://github.com/YuPeng1995/TheCodeCommandos
+GitHub - git@github.com:Daiyin0101/Tasks-Management-System-Teamwork.git
 
 Acknowledgements:
 JavaFX - The toolkit used for building the UI.
