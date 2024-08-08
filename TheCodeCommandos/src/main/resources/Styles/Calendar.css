@@ -1,0 +1,42 @@
+/* 修改日期容器样式 */
+.day-container {
+    -fx-padding: 50, 50, 50, 50;
+    -fx-hgap: 60; /* 水平间隙 */
+    -fx-vgap: 50; /* 垂直间隙 */
+}
+
+/* 修改日期框样式 */
+.day-box {
+    -fx-background-color: #e0e0e0; /* 有效的颜色值 */
+    -fx-padding: 5;
+    -fx-alignment: center;
+    -fx-min-width: 40px; /* 日期框最小宽度 */
+    -fx-min-height: 40px; /* 日期框最小高度 */
+    -fx-pref-width: 100%; /* 使日期框宽度可变 */
+    -fx-pref-height: 100%; /* 使日期框高度可变 */
+}
+
+/* 修改当前日期样式 */
+.current-day {
+    -fx-background-color: red; /* 有效的颜色值 */
+    -fx-text-fill: white; /* 有效的颜色值 */
+}
+
+/* 修改事件标签样式 */
+.card-label {
+    -fx-background-color: blue; /* 有效的颜色值 */
+    -fx-text-fill: white; /* 有效的颜色值 */
+    -fx-cursor: hand; /* 鼠标悬停时显示手型光标 */
+}
+
+.board-label {
+    -fx-background-color: green; /* 有效的颜色值 */
+    -fx-text-fill: white; /* 有效的颜色值 */
+    -fx-cursor: hand; /* 鼠标悬停时显示手型光标 */
+}
+
+.card-board-label {
+    -fx-background-color: black; /* 有效的颜色值 */
+    -fx-text-fill: white; /* 有效的颜色值 */
+    -fx-cursor: hand; /* 鼠标悬停时显示手型光标 */
+}
